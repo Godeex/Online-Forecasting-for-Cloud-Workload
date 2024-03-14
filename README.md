@@ -21,8 +21,8 @@ This project aims to develop an online forecasting system for cloud workloads. T
 Clone the repository and navigate to the project directory:
 
 ```bash
-git clone https://github.com/your-username/cloud-workload-forecasting.git
-cd cloud-workload-forecasting
+git clone https://github.com/Godeex/Online-Forecasting-for-Cloud-Workload.git
+cd Online-Forecasting-for-Cloud-Workload
 ```
 
 Create a virtual environment (optional but recommended):
@@ -45,9 +45,6 @@ pip install -r requirements.txt
 3. **Model Training**: Train the forecasting models using historical data.
 4. **Evaluation**: Evaluate the performance of the trained models and select the best one.
 
-## Dashboard
-
-The project includes a web-based dashboard that allows users to visualize the forecasted workload patterns and monitor the performance of the forecasting models. The dashboard is built using Flask and provides an intuitive interface for interacting with the system.
 
 ## Contributing
 
